@@ -7,3 +7,6 @@ for date
 
 cat 
 to create directory
+
+mv
+to remove file
